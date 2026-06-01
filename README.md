@@ -11,3 +11,14 @@ les tache à éxecuté:
 * texte
 * logos...
 - ajouter ou enlever les onglet du navbar si nécéssaire, toujours en respectant les élèment concret du Prospect
+
+
+
+
+- clonner le projet localement : git clone https://github.com/kingjey01/LYCEE-MPIKO.git 
+- cd [nom du projet clonner]: accèder au projet cloné
+- git checkout -b feature-desing: crée une branche feature pour dévéloppé les mises a jour
+- git status: pour vérifier les modification éffectuée
+- git add .:ajouter toutes tes modification faite sur ta branche
+- git commit -m "nom expriment les modification faite": sauvegarder localement
+- git push origin feature-desing: pousse tes modification faite sur  ta branche sur le repos git en lign
